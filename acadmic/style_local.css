@@ -1,0 +1,10 @@
+a{
+	text-decoration: none;
+}
+.notice{
+	width:250px;
+	float:right;
+}
+.notice marquee{
+	height: 400px;
+}
